@@ -1,0 +1,22 @@
+# Dependency directories (if you eventually use node/npm/yarn)
+node_modules/
+npm-debug.log
+
+# System files (common for all operating systems)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE/Editor specific settings (so your local VS Code/WebStorm settings aren't shared)
+.vscode/
+.idea/
+*.swp
+
+# Local environment variables (Never commit real API keys or sensitive configs)
+.env
+.env.local
+
+# Build outputs (if you add a build process later)
+dist/
+build/
+coverage/
